@@ -18,7 +18,7 @@ homepage:
 Concise definition.
 
 ## When I use it / when not
-The decision criteria — the part future-me will want.
+The decision criteria, the part future-me will want.
 
 ## Key learnings & gotchas
 Hard-won knowledge, patterns, pitfalls.
