@@ -45,7 +45,7 @@ MACHINE_ZONE_PREFIX = ("4-Tools/skills/", "4-Tools/mcp/", "4-Tools/bin/", "4-Too
 SCHEMA_EXEMPT_PREFIX = ("4-Tools/templates/",
                         "4-Tools/memory/", "4-Tools/state-history/",
                         "0-Home/Roadmap/", "0-Inbox/")
-SCHEMA_EXEMPT_FILES = {"README.md","AGENTS.md","CLAUDE.md","GEMINI.md"}
+SCHEMA_EXEMPT_FILES = {"README.md","AGENTS.md","CLAUDE.md","GEMINI.md","SETUP.md"}
 # external artifacts pasted verbatim (recon/pentest/disclosure/bounty, cover letters) — not curated notes
 SCHEMA_EXEMPT_RE = re.compile(
     r"(recon|pentest|disclosure|bounty|takeover|PII-Exposure|Lettre motivation)", re.I)

@@ -31,7 +31,7 @@ Where it stands; what's next.
 Key architectural/product decisions and *why* (the reasoning is the knowledge).
 
 ## Learnings
-Reusable solutions and gotchas discovered here → consider promoting to [[Technologies-MOC]] / [[Learning-MOC]].
+Reusable solutions and gotchas discovered here. Consider promoting them to a Technologies or Learning note.
 
 ## Related
 [[ ]]

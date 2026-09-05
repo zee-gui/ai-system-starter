@@ -19,7 +19,7 @@ What it is.
 Problem it addresses; who'd care.
 
 ## Open questions
-What would need to be true / validated. (Promote to [[Research-MOC]] to investigate.)
+What would need to be true / validated. (Promote to a research note to investigate.)
 
 ## Related
 [[ ]]
