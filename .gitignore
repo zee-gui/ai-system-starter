@@ -1,0 +1,6 @@
+# never commit secrets or local machine state
+*.bak-*
+.DS_Store
+auth.json
+.env
+.env.*
